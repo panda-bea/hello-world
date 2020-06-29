@@ -1,2 +1,2 @@
 # hello-world
-first steps
+ I am panda-bea and my fur is black-white.
